@@ -217,7 +217,7 @@ This project stands on the shoulders of:
 
 ## Built by
 
-**[Udi Menkes](https://www.linkedin.com/in/udimenkes/)** — Building [GenAI PM](https://genaipm.com), daily and weekly AI product management briefs for 5,000+ builders. High-signal curation from X, LinkedIn, YouTube, GitHub, and the sources that matter.
+**[Udi Menkes](https://www.linkedin.com/in/udimenkes/)** — AI Product Leader building Financial Language Models and AI-native products at Intuit. Also building [GenAI PM](https://genaipm.com), daily and weekly AI product management briefs for 5,000+ builders.
 
 ---
 
